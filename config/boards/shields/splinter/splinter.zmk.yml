@@ -1,0 +1,12 @@
+file_format: "1"
+id: splinter
+name: Splinter
+type: shield
+url: https://github.com/konstantinkonstantinovich/zmk-config-splinter
+requires:
+  - pro_micro
+features:
+  - keys
+siblings:
+  - splinter_left
+  - splinter_right

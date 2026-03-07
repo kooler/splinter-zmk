@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+*.uf2
+
+# West workspace
+.west/
+modules/
+tools/
+zephyr/
+bootloader/
+zmk/
+
+# Editor
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# Claude
+.claude/
+CLAUDE.md

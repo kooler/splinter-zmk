@@ -1,0 +1,8 @@
+# Splinter Keyboard ZMK Build Configuration
+# This file defines firmware builds for GitHub Actions
+
+include:
+  - board: nice_nano/nrf52840/zmk
+    shield: splinter_left
+  - board: nice_nano/nrf52840/zmk
+    shield: splinter_right
